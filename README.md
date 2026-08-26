@@ -1,3 +1,1 @@
-# git in VS code
-
-lets make some code changes
+# Baljit-gill.github.io
